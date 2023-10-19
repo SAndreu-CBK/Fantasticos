@@ -1,0 +1,2 @@
+En CaixaBank Tech existen 2 tipos de propulsores nucleares:- PR_NU_FUSION: Son propulsores nucleares que utilizan la fusión nuclear para generar empuje.
+- PR_NU_FISION: Son propulsores nucleares que utilizan la fisión nuclear para generar empuje.

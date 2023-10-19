@@ -1,0 +1,3 @@
+Nombre : Domènec Garrofé Andreu, Teléfono : 67152632, Rol : Technical Solutions, Correo Electrónico : dgarrofeia@caixabanktech.com, Empresa : Tech, Área : Ingeniería
+
+Nombre : Guillem Raja Xucla, Teléfono : 652637829, Rol : Security Architecture, Correo Electrónico : grajax@caixabanktech.com, Empresa : Tech, Área : Ingeniería

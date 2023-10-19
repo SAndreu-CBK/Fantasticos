@@ -1,0 +1,3 @@
+En CaixaBank Tech existen 3 tipos de propulsores químicos:- PR_QUI_HIPER: Son propulsores químicos que utilizan combustibles hipergólicos: utilizan sustancias que reaccionan espontáneamente entre sí cuando entran en contacto, como el tetróxido de nitrógeno y la hidracina.
+- PR_QUI_CRIO: Son propulsores químicos que consumen combustibles criogénicos: requieren el almacenamiento y uso de combustibles extremadamente fríos, como el hidrógeno y el oxígeno líquidos.
+- PR_QUI_SOL: Son propulsores químicos que funcionan con combustibles sólidos: consisten en un compuesto sólido que se quema de manera controlada para liberar energía y generar empuje, como el polibutadieno hidroxilado con perclorato de amonio.

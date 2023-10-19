@@ -1,0 +1,3 @@
+TST_RAD (Prueba de Radiación):- Exposición del componente a fuentes controladas de radiación, como rayos gamma o haces de partículas.
+- Monitoreo de los efectos de la radiación en la estructura y los componentes electrónicos mediante detectores de radiación y equipos de medición especializados.
+- Análisis de los datos recopilados para evaluar la tolerancia del componente a la radiación cósmica y su capacidad para mantener el funcionamiento adecuado.

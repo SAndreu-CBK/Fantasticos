@@ -1,0 +1,4 @@
+TST_CMPRS (Prueba de Compresión):- Sujeción del componente en un dispositivo de prueba diseñado para aplicar fuerzas de compresión controladas.
+- Aplicación gradual de cargas de compresión específicas para simular condiciones durante el lanzamiento y la reentrada.
+- Monitoreo de la deformación y las tensiones internas utilizando sensores de carga y equipos de medición de deformación.
+- Evaluación de la capacidad del componente para resistir fuerzas de compresión y mantener su integridad estructural bajo tales cargas.

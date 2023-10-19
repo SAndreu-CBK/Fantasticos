@@ -1,0 +1,4 @@
+TST_VIB (Prueba de Vibración):- Preparación del componente para la prueba y fijación en el equipo de vibración.
+- Aplicación de frecuencias y amplitudes específicas para simular el entorno de lanzamiento.
+- Monitoreo de la respuesta del componente a las vibraciones a través de sensores y registradores de datos.
+- Análisis de los resultados para evaluar la resistencia del componente a las cargas dinámicas y posibles daños.

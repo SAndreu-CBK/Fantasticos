@@ -1,0 +1,13 @@
+Tipo de propulsor : PR_QUI_HIPER, Arquitectura de nave : ( OpenShip ), Velocidad ( km / s ): 2000 km / s
+
+Tipo de propulsor : PR_QUI_CRIO, Arquitectura de nave : ( Legacy ), Velocidad ( km / s ): 100 km / s
+
+Tipo de propulsor : PR_QUI_SOL, Arquitectura de nave : ( Legacy ), Velocidad ( km / s ): 90 km / s
+
+Tipo de propulsor : PR_NU_FUSION, Arquitectura de nave : ( Legacy ), Velocidad ( km / s ): 1200 km / s
+
+Tipo de propulsor : PR_NU_FISION, Arquitectura de nave : ( OpenShip ), Velocidad ( km / s ): 1400 km / s
+
+Tipo de propulsor : PEAE, Arquitectura de nave : ( OpenShip ), Velocidad ( km / s ): 120 km / s
+
+Tipo de propulsor : PIMA, Arquitectura de nave : ( OpenShip ), Velocidad ( km / s ): 20 km / s

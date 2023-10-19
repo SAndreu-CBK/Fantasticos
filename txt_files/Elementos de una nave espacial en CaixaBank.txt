@@ -1,0 +1,4 @@
+Las naves espaciales en CaixaBank están construidas con los siguientes elementos:- Propulsores: Elemento principal de propulsión de una nava espacial.
+- Sensores: Se utilizan para medir ciertos factores del entorno y ayudar en los viajes espaciales.
+- Materiales: Materiales diseñados por CaixaBank que funcionan muy bien en entornos extremos.
+- Sistemas de generación de energía: Para alimentar todos los sistemas de la nave.

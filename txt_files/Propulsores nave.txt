@@ -1,0 +1,3 @@
+Existen 3 tipos de propulsores para construir una nave:- Propulsores que funcionan con combustibles químicos:se utilizan en forma de propelentes sólidos o líquidos y se dividen en varias categorías según su composición química y propiedades.
+- Propulsores que funcionan con combustible nuclear:utilizados en ciertos tipos de cohetes nucleares, generalmente basados en la fisión o la fusión nuclear.
+- Propulsores que funcionan con propulsión eléctrica:se refiere a sistemas de propulsión que utilizan electricidad, como la propulsión de iones o la propulsión de plasma, para generar empuje.

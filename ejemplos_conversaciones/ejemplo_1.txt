@@ -1,0 +1,14 @@
+Equipo:  ¿Qué pasa cuando la ruta está calculada?
+Experto:  Lo que hacemos es enviarla al Remolcador.
+Equipo:  ¿Así que una vez calculada la ruta con el hangar que debe atracar la nave, se   envía al Remolcador?
+Experto:  Sí.
+Equipo:  Bien, ¿veamos qué hace el Remolcador?¿Cuándo esa información le lleva al remolcador qué pasa?
+Remolcador:  Nos comunicamos con el Capitán para enviar la información de atraque.
+Equipo:  Perfecto, ¿usted es el Remolcador?
+Remolcador:  En efecto, yo soy el remolcador.
+Equipo:  ¿Qué pasa cuando se envía esa información?
+Remolcador:  El remolcador coge el control de la nave (antiguamente se hacía manualmente   pero disponemos del mejor rayo remolcador de la galaxia).
+Team:  Perfecto, ¿y cómo remolcan la nave?
+Remolcador:  Situamos la nave virtual que observamos en nuestro panel de control en la ruta   calculada anteriormente. Maniobramos para que no haya ningún problema.
+Team:  ¿Qué hace el Capitán mientras tanto?
+Remolcador:  El Remolcador y el Capitán debaten el acercamiento de la nave en el hangar   adecuado para dejar la mercancía.

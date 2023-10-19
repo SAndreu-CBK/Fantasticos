@@ -1,0 +1,1 @@
+{"graph_dict": {"Capit\u00e1n de la nave": [["se comunica con", "Torre de Control"]], "Torre de Control": [["atiende", "solicitud"]], "solicitud": [["se tramita a", "sistema extremo"]]}}

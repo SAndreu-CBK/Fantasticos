@@ -1,0 +1,7 @@
+ContextoDebido a las nuevas oportunidades de negocio en Marte, se ha creado un proyecto estratégico para crear una nave espacial y poder viajar a Marte. Fichas relacionadasPPM : HLD
+
+PPM : DOMINIO
+
+PPM : LLDSe solicita...Se solicita crear una nave espacial para ir a Marte que tiene que cumplir con los requisitos- Tiempo del viaje lo más rápido posible
+- Usar la nueva arquitectura de creación de navesEs necesario validar:- Pruebas unitarias de la creación de la nave.
+- Cuando se podrá subir a producción el proyecto.

@@ -1,0 +1,12 @@
+Equipo: ¿Qué pasa cuando una nueva nave llega a la estación?
+Experto: Eso depende, el Capitán llama a la Torre de Control cuando se acerca a la estación espacial
+Equipo: ¿así que sólo hay una forma de llegar y comunicarse con la Torre?
+Experto: Sí, aunque cada vez más llegan naves más modernas con tecnología IOT
+Equipo: Interesante. ¿veamos cuál es más importante ahora? ¿Cuando la nave llega a la Estación qué pasa?
+Experto: Es atendido por el Controlador.
+Equipo: Perfecto, ¿usted es el controlador?
+Experto: En efecto, yo soy el controlador.
+Equipo: Perfecto, una nave llega a la estación, el controlador atiende a la nave a través de su Capitán, ¿y qué pasa?
+Cuando una nave llega a la estación espacial su capitán se pone en contacto con el controlador para solicitar un lugar para atracar. El controlador le solicita información a la nave y de su carga.
+Equipo: Perfecto, ¿y entonces qué sucede?
+Controlador: Tramitamos la solicitud a un sistema extremo para buscar el mejor hangar para la nave, su cara, comodidad de descarga, mejor ruta para llevar la mercancía, así como si necesita cualquier reparación o combustible para la nave...

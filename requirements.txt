@@ -1,0 +1,17 @@
+streamlit==1.25.0
+st-pages==0.1.0
+
+azure-ai-formrecognizer 
+langchain==0.0.254
+llama-index==0.7.20
+tiktoken==0.4.0
+pikepdf==8.2.3
+streamlit-scrollable-textbox==0.0.3
+pydantic==1.10.12
+pypdf
+
+pyvis
+scikit-learn
+
+plotly==5.15.0
+umap-learn

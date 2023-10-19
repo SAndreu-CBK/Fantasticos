@@ -1,0 +1,4 @@
+TST_THRM (Prueba Térmica):- Exposición del componente a temperaturas extremas en cámaras térmicas controladas.
+- Ciclos de calentamiento y enfriamiento para simular las condiciones espaciales.
+- Monitoreo de la respuesta del componente a los cambios de temperatura mediante sensores térmicos.
+- Evaluación de la integridad estructural y el rendimiento funcional del componente tras la exposición térmica.
