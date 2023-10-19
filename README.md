@@ -11,6 +11,8 @@ Consideraciones:
 - Esto es claramente un MVP
 - Para un escalado, se usarían técnicas de RAG (retrieval-augmented generation) más sofisticadas
 
+![Imagen de resumen](imagenes/AgoraIcono.PNG)
+
 ## Cómo empezar usar
 - Instala las dependencias (de requirements.txt) con 'pip install -r requirements.txt'
 - Necesitas un deployment de OpenAI, e identificar las claves de conexión
