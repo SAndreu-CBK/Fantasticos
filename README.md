@@ -11,7 +11,7 @@ Consideraciones:
 - Esto es claramente un MVP
 - Para un escalado, se usarían técnicas de RAG (retrieval-augmented generation) más sofisticadas
 
-![Imagen de resumen](imagenes/AgoraIcono.PNG)
+![Imagen de resumen](imagenes/AgoraIcono.PNG =x120)
 
 ## Cómo empezar usar
 - Instala las dependencias (de requirements.txt) con 'pip install -r requirements.txt'
