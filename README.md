@@ -16,6 +16,8 @@ Consideraciones:
 - Necesitas un deployment de OpenAI, e identificar las claves de conexión
 - Asímismo, para "crea un chatbot", necesitas un usuario, contraseña y link a un confluence
 
+Una vez hecho esto, sólo necesitarás ejecutar el comando "streamlit run 🏡_Inicio.py" (sí... ejecutar un archivo con un icono; es para que quede más bonito)... ¡y a disfrutar!
+
 ### Cómo usar la función de esquematizar reuniones
 Basta con que añadas un .txt de una transcripción de una reunión, o conversación entre compañeros. Se adjuntan ejemplos en la carpeta "ejemplos_conversaciones".
 Como output, se hará el display de un esquema interactivo.
